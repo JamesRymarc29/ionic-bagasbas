@@ -1,0 +1,7 @@
+{
+  "name": "ionic-Bagasbas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
